@@ -5,7 +5,8 @@ area{
   cursor:url("file:///Applications/Eclipse_4.8.0.app/Contents/workspace/mitasai2018/WebContent/image/magicre.png"),pointer;
 }
 .web
-{    margin: 0 auto;
+{ 	margin: 0 auto;
+	width: 1024px;
 }
 	}
 
