@@ -6,7 +6,9 @@ area{
 }
 .web
 { 	margin: 0 auto;
+	width:1024px;
 	max-width: 100%;
+	height: auto;
 }
 	}
 
